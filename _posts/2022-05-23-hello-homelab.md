@@ -41,6 +41,16 @@ on:
 sudo apt update && sudo apt upgrade
 ```
 
+```Python
+for n in range(2, 10):
+    for x in range(2, n):
+        if n % x == 0:
+            print(n, 'equals', x, '*', n//x)
+            break
+    else:
+        print(n, 'is a prime number')
+```
+
 ## Photos
 
 ![img-description](https://cdn.theatlantic.com/thumbor/vDZCdxF7pRXmZIc5vpB4pFrWHKs=/559x0:2259x1700/1080x1080/media/img/mt/2017/06/shutterstock_319985324/original.jpg)
