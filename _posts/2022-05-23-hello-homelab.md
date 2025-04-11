@@ -1,13 +1,13 @@
 ---
-title: Hello HomeLab
+title: Hello Blog
 date: 2022-05-23 12:00:00 -500
-categories: [homelab,hardware]
-tags: [servers,dell,hp,supermicro]
+categories: [software,hardware]
+tags: [servers,linux,test]
 ---
 
 # Welcome
 
-Hello and welcome to my homelab docs site!
+Hello and welcome to my IT blog site!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel nibh eleifend, varius quam vitae, mattis nibh. Nam consequat ex augue, at efficitur eros lobortis ut. Cras ut risus in quam gravida pulvinar id ut elit. Vivamus at mi tempus, iaculis risus eget, sodales erat. Maecenas at dapibus mauris.
 
