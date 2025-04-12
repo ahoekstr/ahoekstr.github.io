@@ -41,7 +41,7 @@ on:
 sudo apt update && sudo apt upgrade
 ```
 
-```Python
+```python
 for n in range(2, 10):
     for x in range(2, n):
         if n % x == 0:
