@@ -5,22 +5,18 @@ order: 4
 ---
 
 # Adam Hoekstra
+Online Data Science undergraduate at Indiana University Bloomington with a strong foundation in IT support. Proficient in systems administration, network configuration, and technical troubleshooting. Hands-on experience with Windows and Linux environments, command-line tools, and remote support. Holds CompTIA A+ and ITF+ certifications. Currently seeking a junior position in IT or Data Science.
+
 **Crown Point, IN 46307**  
-[hoekstraada@gmail.com](mailto:hoekstraada@gmail.com)  
+[adamnhoekstra@gmail.com](mailto:adamnhoekstra@gmail.com)  
 +1 (219) 252-3916
-
----
-
-## Professional Summary
-
-Motivated Data Science undergraduate with a strong foundation in IT, demonstrated through hands-on experience and a CompTIA A+ certification.
 
 ---
 
 ## Work Experience
 
 **Delivery Driver**  
-*UberEATS – Crown Point, IN*  
+*Jimmy Johns – Crown Point, IN*  
 **Jan 2024 – Present**  
 - Managed timely food deliveries with accuracy and customer satisfaction.
 
@@ -34,7 +30,7 @@ Motivated Data Science undergraduate with a strong foundation in IT, demonstrate
 **Oct 2021 – Feb 2023**  
 - Delivered customer service at the deli, handled inventory, stocking, and registers.
 
-**Summer Intern**  
+**Data Engineering Intern**  
 *Starfish ETL – Des Plaines, IL*  
 **May 2020 – Aug 2021**  
 - Built normalized CRM data models.  
@@ -44,33 +40,34 @@ Motivated Data Science undergraduate with a strong foundation in IT, demonstrate
 
 ## Education
 
-**Associate’s Degree in Data Science**  
+**Bachelor’s Degree in Data Science**  
 *Indiana University – Bloomington, IN*  
-**Aug 2021 – Present**
+**Aug 2022 – Present**
 
 **High School Diploma**  
 *Crown Point High School – Crown Point, IN*  
 **2017 – 2021**  
-- Graduated with Academic Honors Diploma  
-- 53 college credits  
+- Graduated with Academic Honors Diploma and 53 college credits.  
 - Member of Speech & Debate (2 years)
+- Member of Business Associates of America (2 years)
 
 ---
 
 ## Skills
 
 - Python  
-- MySQL, SQL Server  
+- C++
+- MySQL 
 - GitHub  
 - Web Design  
 - Operating Systems (Windows, Linux)  
 - Computer Networking  
 - Technical Support  
 - Command Line  
-- Firewalls  
+- Linux and Windows
 - VMWare  
+- Firewalls  
 - Active Directory  
-- Network Engineering  
 - Customer Service
 
 ---
@@ -80,6 +77,8 @@ Motivated Data Science undergraduate with a strong foundation in IT, demonstrate
 - **CompTIA A+** (Apr 2024 – Apr 2027)  
 - **CompTIA ITF+**  
 - **CompTIA Network+** (In progress)
+
+[View certification on Credly](https://www.credly.com/badges/290ec1ac-0bb6-459a-878a-cf673c10c028)
 
 ---
 
@@ -93,14 +92,15 @@ Motivated Data Science undergraduate with a strong foundation in IT, demonstrate
 
 ## Additional Experience
 
-**PC Building & Maintenance**  
-- Built and maintained personal desktop systems  
-- Self-taught troubleshooting and hardware diagnosis
+**PC Building**  
+- Built and maintained multiple personal desktop systems  
+- Self-taught troubleshooting and hardware diagnosis and repair
 
 **Purdue GenCyber Bootcamp**  
-- Learned basics of cybersecurity and penetration testing
+- Gained hands-on experience with tools like Wireshark for packet sniffing and traffic analysis to identify security risks
+- Developed an understanding of security best practices, including password policies and social engineering awareness
 
 **Asynchronous College Courses**  
-- 100 & 200 level informatics and security classes  
-- Built secure Flask web app with SQL backend  
+- 200 & 300 level data science and networking classes  
+- Built secure Flask web app with SQL backend
 - Gained hands-on Linux and automation experience
