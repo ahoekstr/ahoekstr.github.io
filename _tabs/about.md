@@ -3,9 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+This page serves as my resume and professional background.
 
-
-# Adam Hoekstra
+# Adam N. Hoekstra
 Online Data Science undergraduate at Indiana University Bloomington with a strong foundation in IT support. Proficient in systems administration, network configuration, and technical troubleshooting. Hands-on experience with Windows and Linux environments, command-line tools, and remote support. Holds CompTIA A+ and ITF+ certifications. Currently seeking a junior position in IT or Data Science.
 
 
