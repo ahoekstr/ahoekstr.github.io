@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: Adam Hoekstra # the main title
 
-tagline: My IT blog site # it will display as the subtitle
+tagline: IT Blog & Portfolio # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A blog site for my homelab.
+  My personal documentation hub for IT and data science work.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
