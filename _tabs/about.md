@@ -1,13 +1,15 @@
 ---
 # the default layout is 'page'
-title: Resume
+title: "  "
 icon: fas fa-info-circle
 order: 4
+---
+[View Resume (PDF)](/assets/AdamHoekstra_resume.pdf){:target="_blank"}
+
 ---
 
 # Adam N. Hoekstra
 Online Data Science undergraduate at Indiana University Bloomington with a strong foundation in IT support. Proficient in systems administration, network configuration, and technical troubleshooting. Hands-on experience with Windows and Linux environments, command-line tools, and remote support. Holds CompTIA A+ and ITF+ certifications. Currently seeking a junior position in IT or Data Science.
-
 
 **Crown Point, IN 46307**  
 [adamnhoekstra@gmail.com](mailto:adamnhoekstra@gmail.com)  
@@ -34,13 +36,13 @@ Online Data Science undergraduate at Indiana University Bloomington with a stron
 
 **Deli and Sales Associate**  
 *IU Dining, Willkie C-Store – Bloomington, IN*  
-**Oct 2021 – Feb 2023**  
+**Jan 2022 – Feb 2023**  
 - Delivered customer service at the deli; handled inventory, stocking, and registers.
 
 
 **Data Engineering Intern**  
 *Starfish ETL – Des Plaines, IL*  
-**May 2020 – Aug 2021**  
+**May 2021 – Aug 2022**  
 - Built normalized CRM data models.  
 - Created SQL databases and migration maps using Starfish ETL software.
 
