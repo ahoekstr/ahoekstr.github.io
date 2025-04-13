@@ -28,8 +28,8 @@ url: "https://ahoekstr.github.io"
 github:
   username: ahoekstr # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+  #username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,10 +39,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
+    - https://www.linkedin.com/in/adam-hoekstra
     - https://github.com/ahoekstr # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/adam-hoekstra
 
 # Site Verification Settings
 webmaster_verifications:
